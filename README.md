@@ -5,7 +5,9 @@ Multi-Agent Experimental Design in LLM
 
 ```
 pip install google-generativeai
+```
 
+```
 pip install -r requirements.txt
 ```
 
