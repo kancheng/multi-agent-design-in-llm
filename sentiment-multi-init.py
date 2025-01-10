@@ -3,7 +3,7 @@ import os
 from sklearn.metrics import accuracy_score, cohen_kappa_score
 from collections import Counter
 
-API_KEY = ''
+API_KEY = 'API_KEY'
 with open('env.txt', 'r', encoding='utf-8') as file:
     content = file.read()
     API_KEY = content

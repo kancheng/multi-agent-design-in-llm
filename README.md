@@ -17,4 +17,6 @@ python init.py
 
 ## Reference
 
-- https://github.com/google-gemini/generative-ai-python/edit/main/README.md
+- https://github.com/google-gemini/generative-ai-python/
+
+- https://aistudio.google.com/

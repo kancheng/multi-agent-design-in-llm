@@ -1,7 +1,7 @@
 import google.generativeai as genai
 import os
 
-API_KEY = ''
+API_KEY = 'API_KEY'
 with open('env.txt', 'r', encoding='utf-8') as file:
     content = file.read()
     API_KEY = content

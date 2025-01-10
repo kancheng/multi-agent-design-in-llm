@@ -1,7 +1,7 @@
 # import google.generativeai as genai
 # import os
 
-# genai.configure(api_key='AIzaSyBAObNpUQI03OopMPIwhaXCuc86sbls5R8')
+# genai.configure(api_key='API_KEY')
 
 # model = genai.GenerativeModel('gemini-1.5-flash')
 # response = model.generate_content("What is federated learning?")
